@@ -1,0 +1,20 @@
+{
+  "name": "weather-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "hbs": "^4.2.0",
+    "nodemon": "^3.1.11",
+    "request": "^2.88.2"
+  }
+}
